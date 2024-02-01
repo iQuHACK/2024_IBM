@@ -3,27 +3,23 @@
 > [!IMPORTANT]
 **IBM Challenge is only for in-person attendees**
 
-## Table of Contents:
-
-- [Welcome to MIT iQuHACK 2024 - IBM Challenge!!](#welcome-to-mit-iquhack-2024---ibm-challenge)
-  - [Table of Contents:](#table-of-contents)
-  - [Overview](#overview)
-  - [Requirement](#requirement)
-    - [Access to IBM Hardware](#access-to-ibm-hardware)
-    - [Working on qBraid Lab](#working-on-qbraid-lab)
-    - [Working on IBM Quantum Lab](#working-on-ibm-quantum-lab)
-    - [Working on Locally](#working-on-locally)
-  - [Submitting the tasks](#submitting-the-tasks)
-  - [Judging Criteria](#judging-criteria)
-  - [Winners and Awards](#winners-and-awards)
-  - [Resources](#resources)
-    - [Learning Materials](#learning-materials)
-      - [Quantum Computing and Algorithms](#quantum-computing-and-algorithms)
-      - [Workflow Example Tutorials](#workflow-example-tutorials)
-    - [API Reference](#api-reference)
-    - [Useful Resources](#useful-resources)
-  - [Tips](#tips)
-  - [Feedbacks and Discussions](#feedbacks-and-discussions)
+On this Readme
+- [Overview](#overview)
+- [Requirement](#requirement)
+  - [Access to IBM Hardware](#access-to-ibm-hardware)
+  - [Working on qBraid Lab](#working-on-qbraid-lab)
+  - [Working on IBM Quantum Lab](#working-on-ibm-quantum-lab)
+  - [Working on Locally](#working-on-locally)
+- [Submitting the tasks](#submitting-the-tasks)
+- [Judging Criteria](#judging-criteria)
+- [Resources](#resources)
+  - [Learning Materials](#learning-materials)
+    - [Quantum Computing and Algorithms](#quantum-computing-and-algorithms)
+    - [Workflow Example Tutorials](#workflow-example-tutorials)
+  - [API Reference](#api-reference)
+  - [Useful Resources](#useful-resources)
+- [Tips](#tips)
+- [Feedbacks and Discussions](#feedbacks-and-discussions)
 
 
 ## **Overview**
@@ -36,16 +32,25 @@ Now, computational scientists and other researchers can tackle these large-scale
 
 This challenge aims to design and build a cloud-based, quantum-powered application that addresses a real-world problem and is accessible to end users. This includes applications of quantum algorithms that can have practical usage and, in theory, be exposed to businesses or individual users on the internet for consumption. Teams should identify a problem that can be solved (not necessarily more efficiently) with quantum computers.
 
-Some examples include but are not limited to:
+We encourage contestants to be creative and to leverage their existing quantum knowledge to develop new applications and experiments. To get you started, we offer some suggestions and prompts that may lead to interesting projects.
 
-- An application involving a Random Number Generator
-- An application involving Optimization
-- An application involving Chemical Simulation
-- An application involving a Quantum Calculator
-- An application involving Sentiment Analysis
-- An application involving Image Classification
-- A game involving a quantum algorithm
-- An application that utilizes the 100+ qubit hardware
+Beginner
+- An implementation of [Quantum Key Distribution](https://en.wikipedia.org/wiki/BB84)
+- An application involving the [Quantum Approximate Optimization Algorithm (QAOA)](https://learning.quantum.ibm.com/tutorial/quantum-approximate-optimization-algorithm)
+- A simulation probing the [dynamics](https://docs.quantum.ibm.com/api/qiskit/qiskit.synthesis.SuzukiTrotter) of a [chemical](https://www.youtube.com/watch?v=DWOfMWPKHDU)
+
+Intermediate
+- A realization of [Quantum Signal Processing (QSP)](https://github.com/ichuang/pyqsp)
+- An implementation of [amplitude estimation](https://arxiv.org/abs/1912.05559)
+
+Advanced
+- A realization of [port-based quantum teleportation](https://arxiv.org/abs/0807.4568)
+- An experiment involving [holographic quantum states](https://arxiv.org/abs/2110.14691)
+
+Open-Ended
+- A cryprographically secure quantum random number generator
+- A quantum game illustrating the weirdness of quantum mechanics
+- A quantum calculator using reversible arithmetic
 
 > [!NOTE]
 The idea is that it serves a practical use case and can be accessed by anyone without special tooling that is not already included in a typical computer installation (or minimal installation)
@@ -91,7 +96,7 @@ Link will expires after due.
 
 LINK: TBA
 
-## Judging Criteria
+## **Judging Criteria**
 
 1. **Technical Aspects (30%)** : This category includes the following subcategories:
     - Quantum Complexity : How complex is the quantum algorithm? How optimized is it?
@@ -100,10 +105,6 @@ LINK: TBA
 2. **Originality and Uniqueness (25%)** : How unique is this project compared to others? How interesting is it? Did the team attempt something new or difficult?
 3. **Usefulness and Complexity (25%)** : How useful is the project and how well-designed is it? How functional is it at the time of judging? Can it be used in real-world business applications or serve as a valuable tool for individuals?
 4. **Presentation (20%)** : How well did the team present their project? Were they able to explain their decisions? Did the entire team have a chance to speak?
-
-## Winners and Awards
-
-TBA
 
 
 ## Resources
@@ -119,7 +120,6 @@ TBA
 #### Workflow Example Tutorials
 
 - [Qiskit Runtime Lab](https://github.com/JavaFXpert/qiskit-runtime-lab) by [James Weaver](https://github.com/JavaFXpert)
-- [qBraid Quantum Labs: IBM Devices with your own credentials](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk/ibm_quantum_jobs_with_runtime.ipynb)
 - [Variational quantum eigensolver](https://learning.quantum.ibm.com/tutorial/variational-quantum-eigensolver)
 - [Quantum approximate optimization algorithm](https://learning.quantum.ibm.com/tutorial/quantum-approximate-optimization-algorithm)
 - [CHSH inequality](https://learning.quantum.ibm.com/tutorial/chsh-inequality)
@@ -160,6 +160,3 @@ Your opinions matter! Place to share your feedback on Qiskit [here](https://gith
 
 
 
-
-
-[def]: #winners-and-awards
