@@ -7,8 +7,8 @@
 
 - [Welcome to MIT iQuHACK 2024 - IBM Challenge!!](#welcome-to-mit-iquhack-2024---ibm-challenge)
   - [Table of Contents:](#table-of-contents)
-  - [**Overview**](#overview)
-  - [**Requirement**](#requirement)
+  - [Overview](#overview)
+  - [Requirement](#requirement)
     - [Access to IBM Hardware](#access-to-ibm-hardware)
     - [Working on qBraid Lab](#working-on-qbraid-lab)
     - [Working on IBM Quantum Lab](#working-on-ibm-quantum-lab)
@@ -119,6 +119,7 @@ TBA
 #### Workflow Example Tutorials
 
 - [Qiskit Runtime Lab](https://github.com/JavaFXpert/qiskit-runtime-lab) by [James Weaver](https://github.com/JavaFXpert)
+- [qBraid Quantum Labs: IBM Devices with your own credentials](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk/ibm_quantum_jobs_with_runtime.ipynb)
 - [Variational quantum eigensolver](https://learning.quantum.ibm.com/tutorial/variational-quantum-eigensolver)
 - [Quantum approximate optimization algorithm](https://learning.quantum.ibm.com/tutorial/quantum-approximate-optimization-algorithm)
 - [CHSH inequality](https://learning.quantum.ibm.com/tutorial/chsh-inequality)
