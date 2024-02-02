@@ -4,22 +4,24 @@
 **IBM Challenge is only for in-person attendees**
 
 On this Readme
-- [Overview](#overview)
-- [Requirement](#requirement)
-  - [Access to IBM Hardware](#access-to-ibm-hardware)
-  - [Working on qBraid Lab](#working-on-qbraid-lab)
-  - [Working on IBM Quantum Lab](#working-on-ibm-quantum-lab)
-  - [Working on Locally](#working-on-locally)
-- [Submitting the tasks](#submitting-the-tasks)
-- [Judging Criteria](#judging-criteria)
-- [Resources](#resources)
-  - [Learning Materials](#learning-materials)
-    - [Quantum Computing and Algorithms](#quantum-computing-and-algorithms)
-    - [Workflow Example Tutorials](#workflow-example-tutorials)
-  - [API Reference](#api-reference)
-  - [Useful Resources](#useful-resources)
-- [Tips](#tips)
-- [Feedbacks and Discussions](#feedbacks-and-discussions)
+- [Welcome to MIT iQuHACK 2024 - IBM Challenge!!](#welcome-to-mit-iquhack-2024---ibm-challenge)
+  - [**Overview**](#overview)
+  - [**Requirement**](#requirement)
+    - [Access to IBM Hardware](#access-to-ibm-hardware)
+    - [Working on qBraid Lab](#working-on-qbraid-lab)
+    - [Working on IBM Quantum Lab](#working-on-ibm-quantum-lab)
+    - [Working on Locally](#working-on-locally)
+  - [Submitting the tasks](#submitting-the-tasks)
+  - [**Judging Criteria**](#judging-criteria)
+  - [Winners and Awards](#winners-and-awards)
+  - [Resources](#resources)
+    - [Learning Materials](#learning-materials)
+      - [Quantum Computing and Algorithms](#quantum-computing-and-algorithms)
+      - [Workflow Example Tutorials](#workflow-example-tutorials)
+    - [API Reference](#api-reference)
+    - [Useful Resources](#useful-resources)
+  - [Tips](#tips)
+  - [Feedbacks and Discussions](#feedbacks-and-discussions)
 
 
 ## **Overview**
@@ -95,8 +97,10 @@ Please follow [this installation tutorial](https://docs.quantum.ibm.com/start/in
 Submission Due: 10am ET, 4th Feb (Sunday)</br>
 Link will expires after due.
 
+Submission: [Link](https://airtable.com/appKqKWruR3g6xHcR/pagpZxpSNvh0BEjZp/form)
 
-LINK: TBA
+If your project has been successfully submitted, you can find the name of your team and project on [this board](https://airtable.com/appKqKWruR3g6xHcR/shr8V9XZiih9QDq07/tbldbMYiZhhBAsTVN).
+
 
 ## **Judging Criteria**
 
@@ -107,6 +111,13 @@ LINK: TBA
 2. **Originality and Uniqueness (25%)** : How unique is this project compared to others? How interesting is it? Did the team attempt something new or difficult?
 3. **Usefulness and Complexity (25%)** : How useful is the project and how well-designed is it? How functional is it at the time of judging? Can it be used in real-world business applications or serve as a valuable tool for individuals?
 4. **Presentation (20%)** : How well did the team present their project? Were they able to explain their decisions? Did the entire team have a chance to speak?
+
+## Winners and Awards
+
+Winners: TBA
+
+- Winners will receive a digital certificate and can get a Tier 1 score when they apply for the Qiskit Advocate. 
+- The number of total winners might depend on the number of applications.
 
 
 ## Resources
@@ -159,6 +170,3 @@ repository from the documentation.
 
 Your opinions matter! Place to share your feedback on Qiskit [here](https://github.com/Qiskit/feedback
 ); stay up to date with release planning and DemoDays; and find out where to get support.
-
-
-
