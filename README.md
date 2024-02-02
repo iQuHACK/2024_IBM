@@ -74,7 +74,7 @@ In order to gain access to IBM Quantum hardware for working on qBraid Lab or Loc
 
 <img width="287" alt="image" src="./img/default_env.png">
 
-3. [This tutorial](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk/ibm_quantum_jobs_with_runtime.ipynb) will give you a guideline on how to use your own IBM Quantum Credential. You can directly find it through qBraid Lab under the "qbraid_sdk" folder. 
+3. [This tutorial](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk/ibm_quantum_jobs_with_runtime.ipynb) will give you a guideline on how to use your own IBM Quantum Credential. You can find it through qBraid Lab under the "qbraid_sdk" folder as well. 
 
 ### Working on IBM Quantum Lab
 
