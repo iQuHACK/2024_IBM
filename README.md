@@ -74,6 +74,8 @@ In order to gain access to IBM Quantum hardware for working on qBraid Lab or Loc
 
 <img width="287" alt="image" src="./img/default_env.png">
 
+3. [This tutorial](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk/ibm_quantum_jobs_with_runtime.ipynb) will give you a guideline on how to use your own IBM Quantum Credential. You can directly find it through qBraid Lab under the "qbraid_sdk" folder. 
+
 ### Working on IBM Quantum Lab
 
 You can also work on the [IBM Quantum Platform](https://quantum.ibm.com/), by using [IBM Quantum Lab](https://quantum.ibm.com/lab). In Quantum Lab, you can write scripts that combine Qiskit code, equations, visualizations, and narrative text in a customized Jupyter Notebook environment — no installation required. Run code on real quantum hardware(opens in a new tab) or simulators(opens in a new tab). Store, access, and manage your files from anywhere.
