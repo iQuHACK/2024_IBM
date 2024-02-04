@@ -56,6 +56,16 @@ Open-Ended
 > [!NOTE]
 The idea is that it serves a practical use case and can be accessed by anyone without special tooling that is not already included in a typical computer installation (or minimal installation)
 
+## Final Teams
+Thank you for choosing IBM Quantum Challenge!
+
+- hyperposition: [Repository](https://github.com/GeorgeHolm/ALQORITHM)
+- Bulldogs: [Repository](https://github.com/shannenespinosa/iquhack24)
+- Stockfish: [Repository](https://github.com/aace217/iQuHACK2024)
+- team-7: [Repository](https://github.com/grid-rider/team-7-iQuHACK)
+- mass2024: [Repository](https://github.com/quargsgreene/ibmgamechallenge)
+- [B]Alde's Gate: [Repository](https://github.com/coderalde/iQuHack-2024-B-Alde-s-Gate/tree/main)
+
 ## **Requirement**
 
 ### Access to IBM Hardware
@@ -97,14 +107,6 @@ Submission Due: 10am ET, 4th Feb (Sunday)</br>
 Link will expires after due.
 
 Submission: Thank you so much for choosing IBM Quantum Challenge!
-
-Teams:
-- hyperposition: [Repository](https://github.com/GeorgeHolm/ALQORITHM)
-- Bulldogs: [Repository](https://github.com/shannenespinosa/iquhack24)
-- Stockfish: [Repository](https://github.com/aace217/iQuHACK2024)
-- team-7: [Repository](https://github.com/grid-rider/team-7-iQuHACK)
-- mass2024: [Repository](https://github.com/quargsgreene/ibmgamechallenge)
-- [B]Alde's Gate: [Repository](https://github.com/coderalde/iQuHack-2024-B-Alde-s-Gate/tree/main)
 
 ## **Judging Criteria**
 
