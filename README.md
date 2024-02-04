@@ -5,6 +5,9 @@
 
 On this Readme
 - [Overview](#overview)
+- [Final Teams](#final-teams)
+- [Winners](#winners)
+------
 - [Requirement](#requirement)
   - [Access to IBM Hardware](#access-to-ibm-hardware)
   - [Working on qBraid Lab](#working-on-qbraid-lab)
@@ -12,7 +15,7 @@ On this Readme
   - [Working on Locally](#working-on-locally)
 - [Submitting the tasks](#submitting-the-tasks)
 - [Judging Criteria](#judging-criteria)
-- [Winners and Awards](#winners-and-awards)
+- [Winners and Awards](winners-and-awards)
 - [Resources](#resources)
   - [Learning Materials](#learning-materials)
     - [Quantum Computing and Algorithms](#quantum-computing-and-algorithms)
@@ -65,6 +68,15 @@ Thank you for choosing IBM Quantum Challenge!
 - team-7: [Repository](https://github.com/grid-rider/team-7-iQuHACK)
 - mass2024: [Repository](https://github.com/quargsgreene/ibmgamechallenge)
 - [B]Alde's Gate: [Repository](https://github.com/coderalde/iQuHack-2024-B-Alde-s-Gate/tree/main)
+
+## Winners
+
+Winners: TBA
+
+- Winners will receive a digital certificate and can get a [Tier 1](https://github.com/qiskit-advocate/application-guide) score when they apply for the Qiskit Advocate. 
+- The number of total winners might depend on the number of applications.
+
+-------
 
 ## **Requirement**
 
@@ -124,7 +136,6 @@ Winners: TBA
 
 - Winners will receive a digital certificate and can get a [Tier 1](https://github.com/qiskit-advocate/application-guide) score when they apply for the Qiskit Advocate. 
 - The number of total winners might depend on the number of applications.
-
 
 ## Resources
 
