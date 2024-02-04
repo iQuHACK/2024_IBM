@@ -69,7 +69,7 @@ Thank you for choosing IBM Quantum Challenge!
 - mass2024: [Repository](https://github.com/quargsgreene/ibmgamechallenge)
 - [B]Alde's Gate: [Repository](https://github.com/coderalde/iQuHack-2024-B-Alde-s-Gate/tree/main)
 
-## Winners
+## 🏆 Winners 🏆
 
 Winners: TBA
 
