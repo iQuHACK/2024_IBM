@@ -85,7 +85,7 @@ You can also work on the [IBM Quantum Platform](https://quantum.ibm.com/), by us
 While you are using IBM Quantum Lab, you don't need to select a channel or save tokens.
 
 ### Working on Locally
-If you will work locally or in a cloud environment, the first step for all users is to install Qiskit. 
+If you will work locally or in a cloud environment, all users' first step is installing Qiskit. 
 
 Please follow [this installation tutorial](https://docs.quantum.ibm.com/start/install). After installing the latest Qiskit, You can access IBM Quantum systems by using the `IBM Quantum Platform` or `IBM Cloud` channel. Channel is the term used to describe the method you use to access IBM Quantum services, and for this challenge, we suggest you use the `IBM Quantum Platform` channel and follow this [instruction](https://docs.quantum.ibm.com/start/setup-channel#set-up-to-use-ibm-quantum-platform) to set up a channel for your project.
 
@@ -97,8 +97,14 @@ Submission Due: 10am ET, 4th Feb (Sunday)</br>
 Link will expires after due.
 
 Submission: Thank you so much for choosing IBM Quantum Challenge!
-Teams:
 
+Teams:
+- hyperposition: [Repository](https://github.com/GeorgeHolm/ALQORITHM)
+- Bulldogs: [Repository](https://github.com/shannenespinosa/iquhack24)
+- Stockfish: [Repository](https://github.com/aace217/iQuHACK2024)
+- team-7: [Repository](https://github.com/grid-rider/team-7-iQuHACK)
+- mass2024: [Repository](https://github.com/quargsgreene/ibmgamechallenge)
+- [B]Alde's Gate: [Repository](https://github.com/coderalde/iQuHack-2024-B-Alde-s-Gate/tree/main)
 
 ## **Judging Criteria**
 
