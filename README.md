@@ -15,7 +15,7 @@ On this Readme
   - [Working on Locally](#working-on-locally)
 - [Submitting the tasks](#submitting-the-tasks)
 - [Judging Criteria](#judging-criteria)
-- [Winners and Awards](winners-and-awards)
+- [Winners and Awards](#winners-and-awards)
 - [Resources](#resources)
   - [Learning Materials](#learning-materials)
     - [Quantum Computing and Algorithms](#quantum-computing-and-algorithms)
