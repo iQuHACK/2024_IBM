@@ -73,9 +73,6 @@ Thank you for choosing IBM Quantum Challenge!
 
 Winners: TBA
 
-- Winners will receive a digital certificate and can get a [Tier 1](https://github.com/qiskit-advocate/application-guide) score when they apply for the Qiskit Advocate. 
-- The number of total winners might depend on the number of applications.
-
 -------
 
 ## **Requirement**
