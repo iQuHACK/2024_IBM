@@ -6,7 +6,7 @@
 On this Readme
 - [Overview](#overview)
 - [Final Teams](#final-teams)
-- [Winners](#winners)
+- [Winners](#-winners-)
 ------
 - [Requirement](#requirement)
   - [Access to IBM Hardware](#access-to-ibm-hardware)
