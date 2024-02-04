@@ -96,9 +96,8 @@ Please follow [this installation tutorial](https://docs.quantum.ibm.com/start/in
 Submission Due: 10am ET, 4th Feb (Sunday)</br>
 Link will expires after due.
 
-Submission: [Link](https://airtable.com/appKqKWruR3g6xHcR/pagpZxpSNvh0BEjZp/form)
-
-If your project has been successfully submitted, you can find the name of your team and project on [this board](https://airtable.com/appKqKWruR3g6xHcR/shr8V9XZiih9QDq07/tbldbMYiZhhBAsTVN).
+Submission: Thank you so much for choosing IBM Quantum Challenge!
+Teams:
 
 
 ## **Judging Criteria**
