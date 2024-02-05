@@ -3,11 +3,13 @@
 > [!IMPORTANT]
 **IBM Challenge is only for in-person attendees**
 
-On this Readme
 - [Overview](#overview)
 - [Final Teams](#final-teams)
-- [Winners](#-winners-)
+- [Winners](#🏆-winners-🏆)
 ------
+
+Preparation
+
 - [Requirement](#requirement)
   - [Access to IBM Hardware](#access-to-ibm-hardware)
   - [Working on qBraid Lab](#working-on-qbraid-lab)
@@ -24,7 +26,6 @@ On this Readme
   - [Useful Resources](#useful-resources)
 - [Tips](#tips)
 - [Feedbacks and Discussions](#feedbacks-and-discussions)
-
 
 ## **Overview**
 
@@ -71,9 +72,42 @@ Thank you for choosing IBM Quantum Challenge!
 
 ## 🏆 Winners 🏆
 
-Winners: TBA
+Congratulations to all winners!
 
--------
+<h2> 🥇 1st Place </h2>
+
+**Team Bulldogs**: "Organ Donation QuAllocation
+Quantum Approximate Optimization Algorithm for Organ Donor and Patient Matching" 
+- https://github.com/shannenespinosa/iquhack24
+- Members:
+  - [Shannen Espinosa](https://www.linkedin.com/in/shannenespinosa/)
+  - [Siona Tagare](https://www.linkedin.com/in/siona-tagare-2aa71a2a6/)
+  - [Alma Alex](http://www.linkedin.com/in/alma-alex-b41596236)
+  - [Annli Zhu](https://www.linkedin.com/in/annli-zhu-214016184/)
+
+<h2>🥈 2nd Place </h2>
+
+**Team team-7**: "MITqute" 
+- https://github.com/grid-rider/team-7-iQuHACK
+- Members:
+  - [Liam Kronman](https://www.linkedin.com/in/liam-kronman/)
+  - [Maggie Bao](@maggie-bao202)
+  - [Nicole Shen](https://github.com/nic0les)
+  - [Armin Ulrich](https://www.linkedin.com/in/arminulrich/)
+  - [Sierra Romo](https://www.linkedin.com/in/sierra-romo-568002253/)
+
+
+<h2>🥉 3rd Place </h2>
+
+**Team hyperposition**: "ALQORITHM: A novel, quantum signal processing-based algorithm builder"
+- https://github.com/GeorgeHolm/ALQORITHM
+- Members:
+  - [Brennan Lagasse](https://github.com/BrennanLagasse)
+  - [Frank Wong](https://github.com/frank-cywong)
+  - [Pranet Sharma](https://github.com/pranetksharma)
+  - [George Holm](https://github.com/GeorgeHolm)
+  - [Diya Naik](https://github.com/diyamagnetism)
+---
 
 ## **Requirement**
 
