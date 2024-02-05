@@ -5,7 +5,7 @@
 
 - [Overview](#overview)
 - [Final Teams](#final-teams)
-- [Winners](#🏆-winners-🏆)
+- [Winners](#-winners-)
 ------
 
 Preparation
