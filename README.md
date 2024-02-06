@@ -92,7 +92,7 @@ Quantum Approximate Optimization Algorithm for Organ Donor and Patient Matching"
 - Members:
   - [Liam Kronman](https://www.linkedin.com/in/liam-kronman/)
   - [Maggie Bao](@maggie-bao202)
-  - [Nicole Shen](https://github.com/nic0les)
+  - [Nicole Shen](https://www.linkedin.com/in/nicole-shen-38b81b293/)
   - [Armin Ulrich](https://www.linkedin.com/in/arminulrich/)
   - [Sierra Romo](https://www.linkedin.com/in/sierra-romo-568002253/)
 
